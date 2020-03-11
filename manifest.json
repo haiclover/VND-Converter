@@ -1,0 +1,20 @@
+{
+    "name": "Exchange Rate Viewer Extensions",
+    "version": "1.0",
+    "description": "Exchange Rate Viewer",
+    "permissions": [
+    	"https://portal.vietcombank.com.vn/",
+      "https://www.bidv.com.vn/",
+      "https://tpb.vn/"
+    ],
+    "browser_action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "images/logo.png",
+      "32": "images/logo.png",
+      "48": "images/logo.png",
+      "128": "images/logo.png"
+    },
+    "manifest_version": 2
+ }

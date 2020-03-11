@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "name": "US Dollar",
+            "code": "USD"
+        },
+        {
+            "name": "Baht/Satang",
+            "code": "THB"
+        },
+        {
+            "name": "Singapore Dollar",
+            "code": "SGD"
+        },
+        {
+            "name": "Krona/Ore",
+            "code": "SEK"
+        },
+        {
+            "name": "Saudi Rial",
+            "code": "SAR"
+        },
+        {
+            "name": "RUBLE/Kopecks",
+            "code": "RUB"
+        },
+        {
+            "name": "Dollar/Cents",
+            "code": "NZD"
+        },
+        {
+            "name": "Krona/Ore",
+            "code": "NOK"
+        },
+        {
+            "name": "MALAYSIA RINGIT/Sen",
+            "code": "MYR"
+        },
+        {
+            "name": "Kuwaiti Dinar",
+            "code": "KWD"
+        },
+        {
+            "name": "WON",
+            "code": "KRW"
+        },
+        {
+            "name": "Japanese Yen",
+            "code": "JPY"
+        },
+        {
+            "name": "Indian Rupee",
+            "code": "INR"
+        },
+        {
+            "name": "Dollar HongKong/Cents",
+            "code": "HKD"
+        },
+        {
+            "name": "Great British Pound",
+            "code": "GBP"
+        },
+        {
+            "name": "Euro",
+            "code": "EUR"
+        },
+        {
+            "name": "Krona/Ore",
+            "code": "DKK"
+        },
+        {
+            "name": "Chinese Yuan",
+            "code": "CNY"
+        },
+        {
+            "name": "Franc/Centimes",
+            "code": "CHF"
+        },
+        {
+            "name": "Canadian Dollar",
+            "code": "CAD"
+        },
+        {
+            "name": "Australian Dollar",
+            "code": "AUD"
+        }
+    ]
+}
